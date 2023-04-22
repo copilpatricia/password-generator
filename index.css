@@ -1,0 +1,51 @@
+body {
+    margin: 20px;
+    background-color: #98c9a3;
+    
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    margin-bottom: 15px;
+    
+}
+
+span {
+    color: #656d4a;
+}
+
+#description {
+    font-size: 20px;
+    color: white;
+    margin-top: 0;
+}
+
+button {
+    background-color: #656d4a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 17px 10px 17px;
+    margin-top: 40px;
+}
+
+hr {
+  width: 100%;
+  border-color: #eaf2d7;
+  margin-top: 50px;
+}
+
+#pass-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+#p-elone, #p-eltwo {
+    text-align: center;
+    background-color: #a3b18a;
+    color: #656d4a;
+    padding: 10px 70px 10px 70px;
+}
