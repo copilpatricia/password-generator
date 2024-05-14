@@ -21,9 +21,9 @@ function generateRandomPassword() {
 
 generateRandomPassword()
 
-function clearCode() {
+// function clearCode() {
 
-}
+// }
 
 function create() {
     pElOne.textContent = generateRandomPassword()
